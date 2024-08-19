@@ -4,6 +4,6 @@
   },
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   "editor.formatOnSave": true,
-  "cSpell.words": ["tailwindcss", "commitlint", "clsx"],
+  "cSpell.words": ["tailwindcss", "commitlint", "clsx", "tseslint"],
   "typescript.tsdk": "node_modules/typescript/lib"
 }
