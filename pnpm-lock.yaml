@@ -60,6 +60,9 @@ importers:
       eslint-plugin-react:
         specifier: ^7.37.1
         version: 7.37.1(eslint@9.13.0(jiti@2.3.3))
+      eslint-plugin-react-refresh:
+        specifier: ^0.4.13
+        version: 0.4.13(eslint@9.13.0(jiti@2.3.3))
       globals:
         specifier: ^15.11.0
         version: 15.11.0
@@ -1033,6 +1036,11 @@ packages:
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
+
+  eslint-plugin-react-refresh@0.4.13:
+    resolution: {integrity: sha512-f1EppwrpJRWmqDTyvAyomFVDYRtrS7iTEqv3nokETnMiMzs2SSTmKRTACce4O2p4jYyowiSMvpdwC/RLcMFhuQ==}
+    peerDependencies:
+      eslint: '>=7'
 
   eslint-plugin-react@7.37.1:
     resolution: {integrity: sha512-xwTnwDqzbDRA8uJ7BMxPs/EXRB3i8ZfnOIp8BsxEQkT0nHPp+WWceqGgo6rKb9ctNi8GJLDT4Go5HAWELa/WMg==}
@@ -3206,6 +3214,10 @@ snapshots:
   escape-string-regexp@4.0.0: {}
 
   eslint-config-prettier@9.1.0(eslint@9.13.0(jiti@2.3.3)):
+    dependencies:
+      eslint: 9.13.0(jiti@2.3.3)
+
+  eslint-plugin-react-refresh@0.4.13(eslint@9.13.0(jiti@2.3.3)):
     dependencies:
       eslint: 9.13.0(jiti@2.3.3)
 
