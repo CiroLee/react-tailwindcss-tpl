@@ -16,8 +16,8 @@ npm run build
 
 | 名称             | 描述                             | 链接                            |
 | ---------------- | -------------------------------- | ------------------------------- |
-| react18          | 用于构建用户界面的 JavaScript 库 | https://zh-hans.reactjs.org/    |
-| react-router(v6) | react 路由管理                   | https://reactrouter.com         |
+| react19          | 用于构建用户界面的 JavaScript 库 | https://zh-hans.reactjs.org/    |
+| react-router(v7) | react 路由管理                   | https://reactrouter.com         |
 | tailwindcss      | 原子css框架                      | https://tailwindcss.com/        |
 | tailwind-merge   | tailwindcss无冲突合并工具        | https://tailwindcss.com/        |
 | typescript       | javascript 扩展                  | https://www.typescriptlang.org/ |
