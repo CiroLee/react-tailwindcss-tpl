@@ -22,4 +22,4 @@ npm run build
 | tailwind-merge   | tailwindcss无冲突合并工具        | https://tailwindcss.com/        |
 | typescript       | javascript 扩展                  | https://www.typescriptlang.org/ |
 | clsx             | 构建className更加轻巧的工具      | https://github.com/lukeed/clsx  |
-| vite             | 前端构建工具                     | https://cn.vitejs.dev/          |
+| vite(8)          | 前端构建工具                     | https://cn.vitejs.dev/          |
