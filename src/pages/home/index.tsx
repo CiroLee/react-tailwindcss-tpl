@@ -9,6 +9,7 @@ export default function Home() {
       <h1 className="text-2xl font-bold">Parent</h1>
       <p>count: {count}</p>
       <button
+        type="button"
         className="mt-2 h-10 cursor-pointer rounded-md border border-gray-500 px-4 active:bg-gray-200"
         onClick={add}>
         Add
