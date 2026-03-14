@@ -23,3 +23,5 @@ npm run build
 | typescript       | javascript 扩展                  | https://www.typescriptlang.org/ |
 | clsx             | 构建className更加轻巧的工具      | https://github.com/lukeed/clsx  |
 | vite(8)          | 前端构建工具                     | https://cn.vitejs.dev/          |
+
+**note**: 项目默认开启react compiler
